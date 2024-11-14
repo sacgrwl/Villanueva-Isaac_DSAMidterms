@@ -36,3 +36,5 @@ Before installing React JS, you need to have the following software installed on
    - Run the following command to start a local server and open your app:
     ```bash
     npm start
+    ```
+   - This should automatically open http://localhost:3000 in your browser, where you’ll see a React welcome page. 
