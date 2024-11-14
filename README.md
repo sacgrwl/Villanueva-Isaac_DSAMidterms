@@ -27,6 +27,8 @@ Before installing React JS, you need to have the following software installed on
      npm -v
      ```
    - Replace `my-app` with your project name. `npx` will automatically download and run the latest Create      React App.  
+
+
 2. **Navigate to Your Project Folder**
      ```bash
      cd my-app
@@ -38,3 +40,8 @@ Before installing React JS, you need to have the following software installed on
     npm start
     ```
    - This should automatically open http://localhost:3000 in your browser, where you’ll see a React welcome page. 
+
+4. **Start Coding!**
+   - Modify the files in the `src` folder to begin customizing your React application.
+
+## Your React environment is now ready for development!
