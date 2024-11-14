@@ -32,6 +32,7 @@ Before installing React JS, you need to have the following software installed on
      cd my-app
 
 
-3. **Navigate to Your Project Directory**
-   ```bash
-   cd my-custom-react-app
+3. **Start the Development Server**
+   - Run the following command to start a local server and open your app:
+    ```bash
+    npm start
