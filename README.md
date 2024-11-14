@@ -27,12 +27,10 @@ Before installing React JS, you need to have the following software installed on
      npm -v
      ```
    - Replace `my-app` with your project name. `npx` will automatically download and run the latest Create      React App.  
-2. **Create a New React Application**
-   - Open your terminal and run the following command:
+2. **Navigate to Your Project Folder**
      ```bash
-     npx create-react-app my-custom-react-app
-     ```
-   - This command creates a new React project named `my-custom-react-app`. It installs all necessary dependencies and sets up the project structure.
+     cd my-app
+
 
 3. **Navigate to Your Project Directory**
    ```bash
