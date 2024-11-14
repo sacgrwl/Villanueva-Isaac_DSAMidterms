@@ -9,7 +9,7 @@ React.js is important because it enables fast, efficient, and scalable user inte
 
 ---
 
-## How to Set Up React JS?
+## How to Set Up & Install React JS?
 
 ### Prerequisite Apps
 
@@ -19,13 +19,14 @@ Before installing React JS, you need to have the following software installed on
 
 ### Step-by-Step Installation
 
-1. **Install Node.js and NPM**
-   - Download and install Node.js from [Node.js website](https://nodejs.org/).
-   - Verify installation:
+1. **Set Up a React Project with Create React App**
+   - Create React App is an official tool to set up React with all necessary configurations.
+   - In your terminal, run
      ```bash
      node -v
      npm -v
      ```
+   - Replace `my-app` with your project name. `npx` will automatically download and run the latest Create      React App.  
 2. **Create a New React Application**
    - Open your terminal and run the following command:
      ```bash
